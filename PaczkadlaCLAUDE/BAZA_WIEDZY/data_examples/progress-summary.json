@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-11-06",
+  "sessions_count": 10,
+  "global_avg": 7.1,
+  "rolling_5": 7.4,
+  "trend_slope": 0.11,
+  "trend_label": "rosnacy",
+  "criteria_avg": {
+    "trafnosc": 2.9,
+    "walidacja": 3.1,
+    "granice": 2.2,
+    "wspolpraca": 2.7,
+    "jezyk_wieku": 3.4
+  }
+}

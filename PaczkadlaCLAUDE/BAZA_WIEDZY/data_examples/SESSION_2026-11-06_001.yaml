@@ -1,0 +1,22 @@
+session_id: SESSION_2026-11-06_001
+date: 2026-11-06
+scenario_id: S03
+scenario_title: Nie chce iść do szkoły
+age_band: 7-9
+difficulty: medium
+mode: training
+turns_count: 5
+score_mean_0_10: 6.8
+criteria_avg:
+  trafnosc: 2.5
+  walidacja: 3.0
+  granice: 2.0
+  wspolpraca: 2.8
+  jezyk_wieku: 3.5
+strengths:
+  - Walidacja emocji
+  - Krótki język adekwatny do wieku
+risks:
+  - Za szybkie domykanie granicą
+micro_habit_next:
+  - Najpierw walidacja, potem 2 wybory

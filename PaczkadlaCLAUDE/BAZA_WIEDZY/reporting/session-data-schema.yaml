@@ -1,0 +1,34 @@
+version: 1
+session_record:
+  session_id: string
+  date: YYYY-MM-DD
+  age_band: ["7-9", "10-12"]
+  scenario_id: string
+  scenario_title: string
+  difficulty: ["low", "medium", "high"]
+  mode: ["training", "simulation", "my_case"]
+  turns_count: integer
+  turn_scores:
+    - turn_no: integer
+      score_total_0_10: number
+      criteria:
+        trafnosc: [0,1,2,3,4]
+        walidacja: [0,1,2,3,4]
+        granice: [0,1,2,3,4]
+        wspolpraca: [0,1,2,3,4]
+        jezyk_wieku: [0,1,2,3,4]
+      positives:
+        - string
+      risk:
+        - string
+      better_version: string
+  session_summary:
+    score_mean_0_10: number
+    strongest_reactions:
+      - string
+    recurring_risk:
+      - string
+    micro_habit_next:
+      - string
+  tags:
+    - string

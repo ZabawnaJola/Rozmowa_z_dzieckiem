@@ -1,0 +1,8 @@
+{
+  "updated_at": "2026-11-06",
+  "ranking": [
+    {"scenario_id": "S03", "gain_per_session": 0.42, "stability": 0.58, "best_for": ["walidacja"]},
+    {"scenario_id": "S22", "gain_per_session": 0.36, "stability": 0.61, "best_for": ["granice"]},
+    {"scenario_id": "S19", "gain_per_session": 0.29, "stability": 0.74, "best_for": ["wspolpraca"]}
+  ]
+}
