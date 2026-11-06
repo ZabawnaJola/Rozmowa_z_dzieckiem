@@ -1,0 +1,14 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+.vscode/
+
+# Local exports
+*.zip
+*.7z
+
+# Runtime session dumps (if generated later)
+PaczkadlaCLAUDE/BAZA_WIEDZY/data_examples/*.local.*
